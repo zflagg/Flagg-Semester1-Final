@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Model
+comment1.params=cpu\ br
+comment1.target=Model(Computer,\ java.lang.String)
+comment2.params=
+comment2.target=Computer\ getCpu()
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=newCpu
+comment4.target=void\ setCpu(Computer)
+comment5.params=newBrand
+comment5.target=void\ setBrand(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=other
+comment7.target=int\ compareTo(Model)
+numComments=8
